@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//paul-verdure.github.io/Quiz-App/static/css/main.31b5e125.chunk.css",
+    "main.js": "//paul-verdure.github.io/Quiz-App/static/js/main.ad5867c7.chunk.js",
+    "main.js.map": "//paul-verdure.github.io/Quiz-App/static/js/main.ad5867c7.chunk.js.map",
+    "runtime-main.js": "//paul-verdure.github.io/Quiz-App/static/js/runtime-main.fdb917bd.js",
+    "runtime-main.js.map": "//paul-verdure.github.io/Quiz-App/static/js/runtime-main.fdb917bd.js.map",
+    "static/js/2.2af30aca.chunk.js": "//paul-verdure.github.io/Quiz-App/static/js/2.2af30aca.chunk.js",
+    "static/js/2.2af30aca.chunk.js.map": "//paul-verdure.github.io/Quiz-App/static/js/2.2af30aca.chunk.js.map",
+    "index.html": "//paul-verdure.github.io/Quiz-App/index.html",
+    "static/css/main.31b5e125.chunk.css.map": "//paul-verdure.github.io/Quiz-App/static/css/main.31b5e125.chunk.css.map",
+    "static/js/2.2af30aca.chunk.js.LICENSE.txt": "//paul-verdure.github.io/Quiz-App/static/js/2.2af30aca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdb917bd.js",
+    "static/js/2.2af30aca.chunk.js",
+    "static/css/main.31b5e125.chunk.css",
+    "static/js/main.ad5867c7.chunk.js"
+  ]
+}
